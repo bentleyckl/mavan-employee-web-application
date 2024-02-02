@@ -1,7 +1,7 @@
 # Sample Maven Application: maven-employee-web-application
 maven-employee-web-application.
 
-### References
+### Referenc
  - https://maven.apache.org/pom.html
  - https://maven.apache.org/settings.html
 
